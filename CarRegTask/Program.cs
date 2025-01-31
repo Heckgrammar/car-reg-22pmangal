@@ -25,7 +25,7 @@
             }
             Console.WriteLine(charge);
 
-            // rewrite line 12 to concatenate the car registration with the string is not valid
+            // rewrite line 12 to concatenate the car registration with the string "is not valid"
             // store the result in display message
 
             // the charge for parking for two or more hours is changed to include an additional £2 fee
